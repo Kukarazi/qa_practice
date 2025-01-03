@@ -1,1 +1,2 @@
 Just a file to test a conflict situation between local and remote.
+Polo?
