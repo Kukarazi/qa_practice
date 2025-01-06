@@ -1,9 +1,14 @@
 Hello world!
 
 Applying new changes update.
+commit test
 Marco Polo.
 789.
 10-11-12.
 Add Line
 new branch line
+<<<<<<< HEAD
 new branch line
+=======
+Add Line
+>>>>>>> second_branch
